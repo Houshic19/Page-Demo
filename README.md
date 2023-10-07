@@ -1,3 +1,3 @@
-# Creative Tim Builder
+# A website by Aadharsh & Team
 
-With Creative Tim Builder, you can build your next template easily using drag and drop.
+Website which is inegrated with bootstrap framework and HTML,CSS and Js
